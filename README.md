@@ -1,2 +1,5 @@
 ### About me 💬
- ![Alt text](https://sample/url/name-of-gif-file.gif)
+1
+2
+3
+4
